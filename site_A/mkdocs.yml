@@ -1,0 +1,5 @@
+site_name: My Docs
+dev_addr: 127.0.0.1:8001
+plugins:
+  - include-markdown:
+      encoding: utf-8
